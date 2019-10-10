@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tugas1
 
 ## Mengenal VCS (Version Control System)
@@ -70,3 +71,12 @@ B. Menggunakan GIT
 	Jika perubahan/commit di drop dan master branch lokal dibutuhkan untuk menunjukan history terakhir serer
 		git fetch origin
 		git reset --hard origin/master
+=======
+# Berprogram1
+
+## Mengenal Version Control System
+VCS adalah ....
+
+### Langkah-langkah menggunakan git.
+1. Buatlah repository dengan perintah 'git init'
+>>>>>>> fac27cda71050e64d112eb2459765a5b663ab073
