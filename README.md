@@ -32,15 +32,17 @@ akan lebih transparan dan terukur.
 
 ### Langkah langkah menggunakan Git
 
- A. Opsi 1 - Install GIT di Windows
-	1.Buka web dan download GIT di windows
-	2.Setelah selesai download, instal dan ikuti semua instruksi hingga
-	  selesai
-	3.Jalankan perintah berikut di teminal
-		git config --global user.name "Ario Teduh"
-		git config --global user.email "ArioTeduh@yaemail.com"
+A. Opsi 1 - Install GIT di Windows
 
-B. Menggunakan GIT
+	1.Buka web dan download GIT di windows
+	2.Setelah selesai download, instal dan ikuti semua instruksi hingga selesai
+	3.Jalankan perintah berikut di teminal
+`git config --global user.name "Ario Teduh"`
+`git config --global user.email "ArioTeduh@yaemail.com"`
+
+ 
+B. Menggunakan git
+
 	1.Membuat/Mengatur/Mengambil repository
 		git init #Run di GIT untuk mengubah direktori menjadi repository
 		git clone /path/to/local/repository #untuk mengambil repository lokal
@@ -68,9 +70,10 @@ B. Menggunakan GIT
 		git log --name-status
 	Mengganti perubahan di lokal
 		git checkout -- <filename>
-	Jika perubahan/commit di drop dan master branch lokal dibutuhkan untuk menunjukan history terakhir serer
+	Jika perubahan/commit di drop dan master branch lokal dibutuhkan untuk menunjukan history terakhir server
 		git fetch origin
 		git reset --hard origin/master
+
 =======
 # Berprogram1
 
