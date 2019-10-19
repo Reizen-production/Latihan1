@@ -75,11 +75,38 @@ B. Menggunakan git
 		git reset --hard origin/master
 
 =======
-# Berprogram1
+# Tugas 2
 
-## Mengenal Version Control System
-VCS adalah ....
+## Praktik IDLE Python Untuk Membuat Konversi Nilai Variable
 
-### Langkah-langkah menggunakan git.
-1. Buatlah repository dengan perintah 'git init'
->>>>>>> fac27cda71050e64d112eb2459765a5b663ab073
+Langkah-langkah membuat program konversi nilai variable;
+
+	1. Buke IDLE python
+	2. Masukan Script 
+		Bentuk dari script nya adalah;
+		a=input("masukan nilai a=:")
+		b=input:"masukan nilai b=:")
+		#Disini nilai a dan b adalah input
+		print=("variable a=",a)
+		print=("variable b=",b)
+		#sampai sini adalah proses program
+		print("hasil penggabungan {0}&{1}=%s". format(a,b)%(a+b))
+		#Outputnya adalah penggabungan dari dua variabel a dan b
+		
+		
+		#Konversi nilai variabel
+		a=int(a)
+		b=int(b)
+		print("hasil penjumlahan {0}+{1}=%d". format(a,b)%(a+b))
+		print{"hasil pembagian {0}+{1}=%f". format(a,b)%(a/b))
+		#Didapat disini adalah script penjumlahan dan pembagian
+	3. Lalu play script tersebut kemudian akan muncul Python.Shell	
+	4. Lalu kita akan diminta untuk memasukan variabel contoh a=10,b=20
+	5. Setelah kita memasukan variabel, output dari script kita tadi akan terlihat
+
+Sekian adalah langkah-langkah untuk konversi nilai variable
+
+
+
+
+ 
