@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tugas1
 
 ## Mengenal VCS (Version Control System)
